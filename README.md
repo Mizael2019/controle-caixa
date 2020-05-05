@@ -1,4 +1,4 @@
-# controle-caixa
+# Controle-Caixa
  Ferramenta de controle de caixa e despesas.
 
- Estudo de repositório Git / Github + Javascript.
+ Estudando repositório Git / Github + Javascript.
