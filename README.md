@@ -16,5 +16,5 @@ Nesta ferramenta podemos inserir valores de receitas e despesas, para que seja f
 ---
 
  ## Dependências / Linguagem
- Não utilizado dependências
+ Não utilizado dependências.
  Linguagem: *Javascript*
