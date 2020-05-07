@@ -27,7 +27,7 @@ body {
 h1 {
   letter-spacing: 1px;
   margin: 0;
-  color: #2e75cc;
+  color: #142aec;
 }
 
 h3 {
@@ -66,11 +66,11 @@ h4 {
 }
 
 .money.plus {
-  color: #2ecc71;
+  color: #10da64;
 }
 
 .money.minus {
-  color: #c0392b;
+  color: #ca2614;
 }
 
 label {
@@ -90,10 +90,10 @@ input[type='number'] {
 
 .btn {
   cursor: pointer;
-  background-color: #9c88ff;
+  background-color: #8d77fc;
   box-shadow: var(--box-shadow);
   color: #fff;
-  border: 0;
+  border: 2;
   display: block;
   font-size: 16px;
   margin: 10px 0 30px;
