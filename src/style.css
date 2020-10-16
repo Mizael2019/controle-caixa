@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #f7f7f7;
+  background-color: #f3f3ed;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -27,7 +27,7 @@ body {
 h1 {
   letter-spacing: 1px;
   margin: 0;
-  color: #142aec;
+  color: #0917da;
 }
 
 h3 {
@@ -56,11 +56,11 @@ h4 {
 }
 
 .inc-exp-container > div:first-of-type {
-  border-right: 1px solid #dedede;
+  border-right: 2px solid #dd1010;
 }
 
 .money {
-  font-size: 20px;
+  font-size: 15px;
   letter-spacing: 1px;
   margin: 5px 0;
 }
@@ -70,7 +70,11 @@ h4 {
 }
 
 .money.minus {
-  color: #ca2614;
+  color: #e4200a;
+}
+
+.money.bonus {
+  color: #d30bab;
 }
 
 label {
@@ -129,6 +133,10 @@ input[type='number'] {
 
 .transactions li.minus {
   border-right: 5px solid #c0392b;
+}
+
+.transactions li.bonus {
+  border-right: 5px solid #d30bab;
 }
 
 .delete-btn {

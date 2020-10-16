@@ -1,20 +1,21 @@
-# Controle de Caixa
- Ferramenta de controle de caixa e despesas.
+# Portal de Caixa
+ Ferramenta de fluxo de controle de caixa e despesas.
 
- Estudando repositório **Git / Github + Javascript.**
-
- ---
-
-## Professores Devs:
- Ferramenta simples e básica para estudo de Git / Github e JS, utilizando aulas do Professor **Gustavo Guanabara** *Curso em Vídeo* e **Roger Melo**
+ Estudando **Git + Javascript puro.**
 
  ---
 
-## Resumos
-Nesta ferramenta podemos inserir valores de receitas e despesas, para que seja feito o cálculo automáticamente do seu saldo atual assíncrono
+## Resumo
+Nesta ferramenta poderemos controla valores de receitas e despesas, para que seja feito o cálculo automáticamente do seu saldo atual.
 
 ---
 
  ## Dependências / Linguagem
  1. Não utilizado dependências.
- 2. Linguagem: *Javascript*.
+ 2. Linguagens: *HTML* + *CSS* + *Javascript puro*.
+
+ ---
+
+ ## Créditos de estudo:
+ Ferramenta simples para estudo de Git / Github e JS, utilizando aulas do Professor **Gustavo Guanabara** *Curso em Vídeo* e 
+ **Roger Melo**
